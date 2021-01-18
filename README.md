@@ -2,7 +2,7 @@
 
 ![ufopic.jpg](images/ufopic.jpg)
 
-For Java assigment, I have written a javaScript code that will create a table dynamically using the dataset that was provided to us. The dataset is about UFO sightings in the United States.
+For this assignment, I created a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynamically utilizing Document Object Model (DOM) programming interface based on a given dataset ([UFO Sightings Data](StarterCode/static/js/data.js). Users will also need to filter the table data for specific values based on search criteria
 
 Level 1: Automatic Table and Date Search
 
