@@ -1,4 +1,7 @@
-# UFO-Sightings-Java
+# UFO-Sightings "The Truth Is Out There"
+
+![ufopic.jpg](images/ufopic.jpg)
+
 For Java assigment, I have written a javaScript code that will create a table dynamically using the dataset that was provided to us. The dataset is about UFO sightings in the United States.
 
 Level 1: Automatic Table and Date Search
