@@ -4,6 +4,8 @@
 
 For this assignment, I created a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynamically utilizing Document Object Model (DOM) programming interface based on a given dataset ([UFO Sightings Data](https://github.com/PlainJane20/UFO-Sightings-Java/blob/main/UFO-Level%201/static/js/data.js)). Users can also filter the table data for specific values based on search criteria.
 
+You can view the site here: https://plainjane20.github.io/UFO-Sightings-Java/
+
 Level 1: Automatic Table and Date Search
 
 Here, I have created a basic HTML web page.
