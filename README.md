@@ -16,9 +16,9 @@ Appended a table with the following columns to the webpage which has new rows of
 * Comment
 Created an input tag which would filter the date/time column according to the provided input and render the filtered table to the webpage.
 
-Level 2: Multiple Search Categories
+Level 2: Advanced Search (Multiple Categories)
 
-Here, I have created multiple input tags to filter the data.
+Here, I have created an advanced search with multiple input tags to filter the data.
 Created input tags for
 * Date/time
 * City
