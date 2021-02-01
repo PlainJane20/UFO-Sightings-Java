@@ -17,7 +17,12 @@ Created a web page with `JavaScript`, `HTML5`, `CSS3`, and `D3.js` to create tab
 * Make sure there are columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least
 * Use a date form in the HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input
 
-![](images/UFO_BasicSearch.jpg)  
+## Basic Search UFO Level 1 below:
+![UFO BasicSearch](https://github.com/PlainJane20/UFO-Sightings-Java/blob/main/static/images/UFO_BasicSearch.JPG)  
+
+## Advanced Search UFO Level 2 below"
+![UFO AdvancedSearch](https://github.com/PlainJane20/UFO-Sightings-Java/blob/main/static/images/UFO_AdvancedSearch.JPG)  
+
 ## Assessment
 
 The final product will be assessed on the following metrics:
