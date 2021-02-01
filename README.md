@@ -10,7 +10,6 @@ You can view the site here: https://plainjane20.github.io/UFO-Sightings-Java/
 
 Created a web page with `JavaScript`, `HTML5`, `CSS3`, and `D3.js` to create tables dynamically utilizing Document Object Model (DOM) programming interface based on a given dataset. Users will also need to filter the table data for specific values based on search criteria
 
-
 ## Objectives
 
 * Create a custom `HTML` web page
@@ -19,7 +18,6 @@ Created a web page with `JavaScript`, `HTML5`, `CSS3`, and `D3.js` to create tab
 * Use a date form in the HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input
 
 ![](images/UFO_BasicSearch.jpg)  
-
 ## Assessment
 
 The final product will be assessed on the following metrics:
