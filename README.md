@@ -20,7 +20,6 @@ Created a web page with `JavaScript`, `HTML5`, `CSS3`, and `D3.js` to create tab
 
 ![](Images/html_webpage.png)
 
-
 ## Assessment
 
 The final product will be assessed on the following metrics:
