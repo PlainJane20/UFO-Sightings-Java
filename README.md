@@ -1,4 +1,6 @@
-# UFO-Sightings "The Truth Is Out There" >>>  You can view the site here: https://plainjane20.github.io/UFO-Sightings-Java/
+# UFO-Sightings "The Truth Is Out There" 
+
+You can view the site here: https://plainjane20.github.io/UFO-Sightings-Java/
 
 ![ufopic.jpg](https://github.com/PlainJane20/UFO-Sightings-Java/blob/main/static/images/ufopic.jpg)
 
