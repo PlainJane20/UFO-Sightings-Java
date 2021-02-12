@@ -19,4 +19,4 @@ The final product will be assessed on the following metrics:
 * Visual attraction
 * Usability
 
-### Navi Sohi | Data Analytics & Visualization
+### [Navi Sohi](https://github.com/PlainJane20) | Data Analytics & Visualization
